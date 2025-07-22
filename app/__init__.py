@@ -1,0 +1,1 @@
+# SignAware AI Application Package 
